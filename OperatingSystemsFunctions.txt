@@ -1,0 +1,8 @@
+The thing that I notice first on any OS is the user interface, so that's what I'll focus on. When your computer 
+starts up, you want the interface to be clear and understandable, and not hard to work with. I imagine a lot of 
+work went into, for example, how fast the mouse should move across the screen, so as not to be annoyingly slow or 
+too fast to hit targets. The interface has to tell you if there are hardware problems, net connection problems,
+or anything you have to fix before you can get your stuff done. (Sometimes it seems Windows could do a better job
+of specifying what the problem is and how to fix it.) 
+
+
